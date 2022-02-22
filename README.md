@@ -1,2 +1,2 @@
 # uPic-imgs
-uPic-imgs
+for uPic
